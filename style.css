@@ -1,0 +1,79 @@
+.contents {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    display: flex;
+    align-items: center;
+  justify-content: center;
+}
+
+.dice_box {
+    padding: 20px;
+}
+
+.btn {
+    text-align: center;
+}
+
+.dice {
+    width: 42px;
+    height: 42px;
+    border-radius: 5%;
+    background-color: red;
+    position: relative;
+}
+
+.dot {
+    width: 6px;
+    height: 6px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.pos1 {
+    top: 6px;
+    left: 6px;
+}
+
+.pos2 {
+    top: 6px;
+    left: 18px;
+}
+
+.pos3 {
+    top: 6px;
+    left: 30px;
+}
+
+.pos4 {
+    top: 18px;
+    left: 6px;
+}
+
+.pos5 {
+    top: 18px;
+    left: 18px;
+}
+
+.pos6 {
+    top: 18px;
+    left: 30px;
+}
+
+.pos7 {
+    top: 30px;
+    left: 6px;
+}
+
+.pos8 {
+    top: 30px;
+    left: 18px;
+}
+
+.pos9 {
+    top: 30px;
+    left: 30px;
+}
